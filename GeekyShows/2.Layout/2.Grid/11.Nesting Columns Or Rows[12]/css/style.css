@@ -1,0 +1,31 @@
+.cbox
+{
+    border: 5px solid;
+}
+.adiv
+{
+    height:60px;
+    background-color: red;
+}
+.bdiv
+{
+    height:60px;
+    background-color: gray;
+}
+
+.bcol
+{
+    border: 5px solid red;
+}
+.ccol
+{
+    border: 5px solid blue;
+}
+.dcol
+{
+    border: 5px solid green;
+}
+.ecol
+{
+    border: 5px solid brown;
+}
